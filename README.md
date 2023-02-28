@@ -4,5 +4,5 @@ Here're a few facts about me (`cat dev`):
 3) meow >.<
 
 contacts:
-discord: @cat dev#7899
+discord: @cat dev#1488
 telegram: @cat_dev_lol
