@@ -1,8 +1,8 @@
 Here're a few facts about me (`cat dev`):
 
-1)~~I'm not mentally ill even though it seems like I am~~
+~~I'm not mentally ill even though it seems like I am~~
 
-2) meow >.<
+meow >.<
 
 contacts:
 
