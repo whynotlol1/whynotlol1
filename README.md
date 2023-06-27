@@ -1,5 +1,5 @@
 contacts:
 
-discord: @cat dev#0223
+discord: @cat_dev
 
 telegram: @cat_dev_lol
