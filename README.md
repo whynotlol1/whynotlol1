@@ -1,8 +1,10 @@
-contacts:
+# contacts:
 
-discord: @cat_dev
+> discord: @cat_dev
 
-telegram: @cat_dev_lol
+> telegram: @cat_dev_lol
 
 
-interesting facts: HWU discord bot project contributor
+# interesting facts: 
+
+> HWU discord bot project contributor
