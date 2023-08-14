@@ -7,4 +7,4 @@
 
 # interesting facts: 
 
-> [HWU](https://2b2t.miraheze.org/wiki/Highway_Workers_Union) discord bot project contributor 
+> [HWU](https://highways2b2t.net) discord bot project contributor 
