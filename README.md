@@ -10,4 +10,4 @@ discord: @cat_dev
 telegram: @cat_dev_lol
 ```
 # interesting facts: 
-> [HWU](https://highways2b2t.net) discord bot project contributor (in 2023)
+> [HWU](https://highways2b2t.net) discord bot project contributor (2022-2024)
