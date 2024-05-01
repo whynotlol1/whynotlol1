@@ -1,8 +1,8 @@
 # about me:
 ```
 live in Saint-Petersburg, Russia
-enjoy coding telegram and sometimes discord bots in python
-using PyTelegramBotApi (TeleBot) and Discord.py
+enjoy coding telegram bots in python
+using PyTelegramBotApi (TeleBot)
 ```
 # contacts:
 ```
