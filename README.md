@@ -1,6 +1,6 @@
 # about me:
 ```
-live in Saint-Petersburg, Russia
+live in Saint Petersburg, Russia
 enjoy coding telegram bots in python
 using PyTelegramBotApi (TeleBot)
 ```
