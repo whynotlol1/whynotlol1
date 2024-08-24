@@ -11,4 +11,5 @@ telegram: @cat_dev_lol
 ```
 # interesting facts: 
 > [HWU](https://highways2b2t.net) discord bot project contributor (2022-2024)
+
 > [International Cats Enjoyers Society](https://discord.gg/f32UQYZ9x8) founder (August 2024)
