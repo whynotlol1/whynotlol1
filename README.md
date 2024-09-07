@@ -1,12 +1,3 @@
-# About me:
-🏠 Live in Saint Petersburg, Russia
-
-⌚️ Moscow / Kyiv / UTC+3
-
-🐱 Am possessed with cats
-
-🥸 Lib-centrist
-
 # Contacts:
 
 Discord: @cat_dev | Telegram: [@cat_dev_lol](https://telegram.me/cat_dev_lol)
