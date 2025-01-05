@@ -6,4 +6,4 @@
 
 > [International Cat Enjoyers Society](https://discord.gg/f32UQYZ9x8) founder (August 2024)
 
-> [Omada](https://omada.cafe) dev team member (since September 2024)
+> [Omada](https://omada.cafe) team member (since September 2024)
