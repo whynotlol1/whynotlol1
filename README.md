@@ -1,12 +1,6 @@
-# IMPORTANT
+# Welcome!
 
-Go [there](https://git.omada.cafe/cat) to see my repositories
-
-# Contacts:
-
-Discord: @cat_dev | Telegram: [@cat_dev_lol](https://telegram.me/cat_dev_lol)
-
-# Interesting facts: 
+## Here are some interesting facts about me
 
 > [HWU](https://highways2b2t.net) discord bot project contributor (2022-2024)
 
